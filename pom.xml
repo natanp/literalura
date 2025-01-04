@@ -11,6 +11,7 @@
 	<groupId>br.com.alura.challenge</groupId>
 	<artifactId>literalura</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>Challenge-Literalura</name>
 	<description>Challenge Literalura</description>
 	<url/>
