@@ -38,4 +38,5 @@ Aplicação em Java parte do Desafio LiterAlura do curso de Spring. Utiliza a AP
    ```
 
 4. Navegar pelas opções no console Java
+   
    O programa solicitará que você escolha as opções entre as citadas em [Funcionalidades]() e irá exibir os resultados no console.
